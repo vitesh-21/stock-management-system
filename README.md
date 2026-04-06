@@ -22,7 +22,7 @@ The Stock Management System is designed to help small businesses track their inv
 3.  **Database Setup:**
     * Open `phpMyAdmin`.
     * Create a new database named `stock_db`.
-    * Import the provided `.sql` file (if available).
+    * Import the provided `.sql` file.
 4.  **Configure Connection:** Ensure `db.php` has the correct database credentials.
 5.  **Access the app:** Open `http://localhost/stock-management-system` in your browser.
 
