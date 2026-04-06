@@ -1,10 +1,9 @@
 # Stock Management System
-A web-based inventory and revenue tracking system developed for school project submission.
+This is web-based inventory and revenue tracking system.
 
-## 📋 Project Overview
-The **Stock Management System** is designed to help small businesses track their inventory levels, manage staff logins, and monitor total revenue. It provides an easy-to-use interface for adding new stock items and viewing stock alerts.
+The Stock Management System is designed to help small businesses track their inventory levels, manage staff logins, and monitor total revenue. It provides an easy-to-use interface for adding new stock items and viewing stock alerts.
 
-## ✨ Key Features
+## ✨ Key Features of the system
 * **User Authentication:** Secure login for admin and staff members.
 * **Inventory Tracking:** Add, edit, and delete stock items.
 * **Revenue Reports:** View total sales and revenue calculations.
@@ -28,5 +27,5 @@ The **Stock Management System** is designed to help small businesses track their
 5.  **Access the app:** Open `http://localhost/stock-management-system` in your browser.
 
 ## 👤 Developer
-* **Name:** vitesh-21
-* **Course:** Technical Diploma
+* **Name:** lance kiprop
+* **Course:** Diploma in Information technology
